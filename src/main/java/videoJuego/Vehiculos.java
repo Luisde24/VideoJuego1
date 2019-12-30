@@ -72,6 +72,28 @@ public class Vehiculos {
 
         return numero;
     }
+    public int capacidadTransporte(){
+        int capacidad=0;
+
+        CamionHI c = new CamionHI(4,32,"",50);
+        c.getcToneladas();
+        Jeep j = new Jeep(4,30,"",10);
+        j.getcToneladas();
+        TanqueM4 t = new TanqueM4(10,25,"",15);
+        t.getcToneladas();
+        Motocicleta m = new Motocicleta(5,1,"",12);
+        m.getcToneladas();
+        CamionHI ca = new CamionHI(3,38,"",12);
+        ca.getcToneladas();
+        BombarderosB56 b = new BombarderosB56(10,32,"",20);
+        b.getcToneladas();
+
+        capacidad = c.getcToneladas() + j.getcToneladas() + t.getcToneladas() +  m.getcToneladas() +   ca.getcToneladas() + b.getcToneladas();
+
+
+
+        return capacidad;
+    }
 
 
 

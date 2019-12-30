@@ -15,7 +15,13 @@ public class VehiculoTest {
     @Test
     public void PersonasEnAtaqueCombinadoTest(){
 
-        Assert.assertEquals("Ataque combinados", 35, v.PersonasEnAtaqueCombinado());
+        Assert.assertEquals("Ataque combinados", 36, v.PersonasEnAtaqueCombinado());
+    }
+    @Test
+    public void capacidadTransporteTest(){
+
+        Assert.assertEquals("capacidad de aguante en toneladas", 158, v.capacidadTransporte());
+
     }
 
 }

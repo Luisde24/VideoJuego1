@@ -2,49 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdd4d8a0-6da3-4967-ac39-0ab1e026e84a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/videoJuego/Attackable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/videoJuego/BombarderosB56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/videoJuego/CamionHI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/videoJuego/CruceroAlabama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/videoJuego/Dropable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/videoJuego/ExcepcionPersonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/videoJuego/Jeep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/videoJuego/Motocicleta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/videoJuego/PortaAviones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/videoJuego/Principal/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/videoJuego/Shootable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/videoJuego/SpeedFighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/videoJuego/TanqueM4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/videoJuego/Throwable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/videoJuego/Vehiculos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/videoJuego/Principal/VehiculoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/videoJuego/Attackable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/videoJuego/BombarderosB56.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/videoJuego/CamionHI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/videoJuego/CruceroAlabama.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/videoJuego/Dropable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/videoJuego/ExcepcionPersonal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/videoJuego/Jeep.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/videoJuego/Motocicleta.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/videoJuego/PortaAviones.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/videoJuego/Principal/Principal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/videoJuego/Shootable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/videoJuego/SpeedFighter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/videoJuego/TanqueM4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/videoJuego/Throwable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/videoJuego/Vehiculos.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/videoJuego/Principal/BombarderosB56Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/videoJuego/Principal/CamionHITest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/videoJuego/Principal/CruceroAlabamaTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/videoJuego/Principal/JeepTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/videoJuego/Principal/MotocicletaTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/videoJuego/Principal/PortaAvionesTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/videoJuego/Principal/SpeedFighterTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/videoJuego/Principal/TanqueM4Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/videoJuego/Principal/VehiculoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/videoJuego/Principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/videoJuego/Principal/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/videoJuego/Vehiculos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/videoJuego/Vehiculos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +54,7 @@
       <recent name="C:\Users\luhoyos\IdeaProjects\VideoJuego1\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.VehiculoTest">
+  <component name="RunManager" selected="JUnit.VehiculoTest.capacidadTransporteTest">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="videoJuego.Principal.Principal" />
       <module name="VideoJuego1" />
@@ -124,8 +83,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VehiculoTest.capacidadTransporteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VideoJuego1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="videoJuego.Principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="videoJuego.Principal" />
+      <option name="MAIN_CLASS_NAME" value="videoJuego.Principal.VehiculoTest" />
+      <option name="METHOD_NAME" value="capacidadTransporteTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.VehiculoTest.capacidadTransporteTest" />
         <item itemvalue="JUnit.VehiculoTest" />
         <item itemvalue="Application.Principal" />
       </list>
@@ -169,21 +145,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1577745856210" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1577745856482">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1577746757687">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577745856482" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1577745856482">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577746757687" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1577746757687">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577745856482" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1577745856482">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577746757687" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1577746757687">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577745856482" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1577745856482">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577746757687" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1577746757687">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577745856482" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577746757687" />
   </component>
 </project>
